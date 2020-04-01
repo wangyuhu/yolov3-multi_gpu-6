@@ -1,9 +1,21 @@
-# yolov3-multi_gpu-6
-deformable-cons 创新实践
+<table style="width:100%">
+  <tr>
+    <th><img src="https://user-images.githubusercontent.com/26833433/52743528-e6096300-2fe2-11e9-970c-5fee45769fab.jpg" width="400"></th>
+    <th><img src="https://storage.googleapis.com/ultralytics/logo/logoname1000.png" width="200">
+  <br><br/>
+  <p> <a href="https://itunes.apple.com/app/id1452689527">
+  <img href="https://itunes.apple.com/app/id1452689527" src="https://user-images.githubusercontent.com/26833433/50044365-9b22ac00-0082-11e9-862f-e77aee7aa7b0.png" width="180"> 
+  </a> </p></th> 
+  </tr>
+</table>
 
-这是个fork的项目，具体见末尾；
+# Introduction
 
-加入了deformable v2 以及自己写的deformable v2 pro
+This directory contains python software and an iOS App developed by Ultralytics LLC, and **is freely available for redistribution under the GPL-3.0 license**. For more information please visit https://www.ultralytics.com.
+
+# Description
+
+The https://github.com/ultralytics/yolov3 repo contains inference and training code for YOLOv3 in PyTorch. The code works on Linux, MacOS and Windows. Training is done on the COCO dataset by default: https://cocodataset.org/#home. **Credit to Joseph Redmon for YOLO** (https://pjreddie.com/darknet/yolo/) and to **Erik Lindernoren for the PyTorch implementation** this work is based on (https://github.com/eriklindernoren/PyTorch-YOLOv3).
 
 # Requirements
 
@@ -12,6 +24,13 @@ Python 3.7 or later with the following `pip3 install -U -r requirements.txt` pac
 - `numpy`
 - `torch >= 1.0.0`
 - `opencv-python`
+
+# Tutorials
+
+* [Transfer Learning](https://github.com/ultralytics/yolov3/wiki/Example:-Transfer-Learning)
+* [Train Single Image](https://github.com/ultralytics/yolov3/wiki/Example:-Train-Single-Image)
+* [Train Single Class](https://github.com/ultralytics/yolov3/wiki/Example:-Train-Single-Class)
+* [Train Custom Data](https://github.com/ultralytics/yolov3/wiki/Train-Custom-Data)
 
 # Training
 

@@ -1,0 +1,6 @@
+classes = 3
+train = /data3/wangyuhu/traffic_data/tfc_train.txt
+valid = /data3/wangyuhu/traffic_data/tfc_val.txt
+names = data/tfc.names
+backup = backup
+eval = /data3/wangyuhu/traffic_data
